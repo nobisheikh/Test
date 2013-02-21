@@ -13,6 +13,7 @@ namespace HelloMonoTouch
 	[Register ("AppDelegate")]
 	public partial class AppDelegate : UIApplicationDelegate
 	{
+		//this is test update
 		// class-level declarations
 		UIWindow window;
 		HelloMonoTouchViewController viewController;
